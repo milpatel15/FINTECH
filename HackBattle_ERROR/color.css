@@ -16,14 +16,7 @@ h2{
 }
 
 
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items:start;
-    padding: 20px;
-    background-color: #ADB6C4;
-    
-}
+
 
 nav ul {
     position:absolute;
@@ -96,7 +89,39 @@ button{
                 padding-bottom: 15px;
                 border-radius: 20px;
                 font-size: large;
+                cursor:pointer;
+
                 
             }
        
+}
+.container{
+    background-color: #ffffff;
+    align-items: center;
+    position: relative;
+    left: 100px;
+    width: 1300px;
+    right:100px;
+    border: 50px;
+    top: 150px;
+    border-radius: 10px;
+    height: 500px;
+    overflow-x: hidden;   /* Disable horizontal scroll */
+    overflow-y: auto;     /* Enable vertical scroll */
+    
+    
+
+
+}
+.textcontainer{
+    background-color: #ffffff;
+    align-items: left;
+    position: relative;
+    left: 100px;
+    width: 1300px;
+    right:100px;
+    border: 50px;
+    top: 150px;
+    border-radius: 10px;
+    height: 500px;
 }
