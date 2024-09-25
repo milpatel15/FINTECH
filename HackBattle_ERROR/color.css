@@ -5,14 +5,26 @@
     
 }
 h2{
-    color: #124559;
+    color: #2b52a8;
+    background-color: #7f92ba;
     width: 15rem;
     height: 05rem;
-    margin-left: 2px;
+    margin-top: 5px;
+    margin-left: 25px;
     border-radius: 15%;
     line-height: 5rem;
-    box-shadow: 0px 2px 4px grey;
+    box-shadow: 0px 5px 15px rgb(0, 0, 0);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(57, 28, 162);
+    font-size: 500%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    line-height: 150px;
+
+        
 }
 
 
@@ -40,6 +52,13 @@ nav ul li a {
     font-size: 25px;
     font-weight: bold;
     transition: color 0.3s ease;
+}
+nav ul li p {
+    text-decoration: none;
+    color: #10002b;
+    font-size: 25px;
+    font-weight: bold;
+   
 }
 
 nav ul li a:hover {
@@ -124,4 +143,50 @@ button{
     top: 150px;
     border-radius: 10px;
     height: 500px;
+}
+.profile{
+    display:inline-block;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    height: 295px;
+    margin: 5px;
+}
+.status{
+    display:inline-block;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    margin:5px;
+    height: 295px;
+
+}
+.transaction{
+    display:inline-block;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    margin: 5px;
+    height: 295px;
+
+}
+.saving{
+    display:inline-block;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    margin:4px;
+    height: 295px;
+
+}
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    text-align: left;
+    line-height: 50px;
+}
+.in{
+    border-color: #10002b;
+    border-style: dotted;
 }
