@@ -1,0 +1,39 @@
+.container{
+    background-color: #ABD6C4;
+    align-items: center;
+    position: relative;
+    left: 600px;
+    width: 400px;
+    border: 50px;
+    top: 150px;
+    border-radius: 3.75%;
+
+}
+.login-container{
+    font-size: large;
+    font-palette: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 5px 5px 5px #001B2E;
+
+    border-radius: 3.75%;
+    position:0;
+    left: 10px;
+    text-align: center;
+}
+button{
+    border-radius: 10%;
+    margin-bottom: 10px;  
+}
+h2{
+    text-align: center;
+}
+.signup-container{
+    font-size: large;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 5px 5px 5px #001B2E;
+    border-radius: 3.75%;
+    position:0;
+    left: 10px;
+    text-align: center;
+}
