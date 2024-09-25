@@ -7,82 +7,48 @@
     <link rel="stylesheet" href="color.css"/>
 
 </head>
-<body style="background-image: linear-gradient(to right, #003cff, #443dd4, #c9c4eb);">
-<style>
-        .w-button{
-            position:absolute;
-            left: 700px;
-            top:50px;
-            background-color: #809BCE;
-            padding-left: 15px;
-            padding-right: 15px;
-            padding-top: 15px;
-            padding-bottom: 15px;
-            border-radius: 20px;
-            font-size: large;
-            align-self: center;
-        }
-</style>
-    <header>
-        <button class = "w-button">
-            <span>ARTICLES</span>
-        </button>
-    </header>
+<body>
     <header>
         <style>
-            .c-button{
-                position:absolute;
-                left: 50px;
-                top:50px;
-                background-color: #809BCE;
-                padding-left: 15px;
-                padding-right: 15px;
-                padding-top: 15px;
-                padding-bottom: 15px;
-                border-radius: 20px;
-                font-size: large;
-                align-self: center;
-                cursor:pointer;
-            }
-    </style>
-    <button class = "c-button" onclick="window.location.href='Fintech.html';">
-        <span>BACK</span>
-    </button>
+            header {
+            display: flex;
+            justify-content: space-between;
+            align-items:start;
+            padding: 20px;
+            background-color: rgb(132, 160, 214);
+    
+}
+        </style>
+        <nav>
+            <h2> WISEWALLET </h2> 
+            <ul >
+                <li><a class="active" href="Dashboard.html">Dashboard</a></li>
+                <li><a class="active" href="Accounts.html">Accounts</a></li>
+                <li><a class="active" href="Saving.html">Savings</a></li>
+                <li><p class="in" >Article</p></li>
+                <li><a class="active" href="About_us.html">About Us</a></li>
+                <li><a class="active" href="Contact.html">Contact</a></li>
+            </ul>
+            
+        </nav>
     </header>
-    <div class="container">
-        <div class="text-container">
-            <ul id="feed"></ul>
-            <script>
-                const RSS_URL = "https://www.nasa.gov/rss/dyn/breaking_news.rss";
-                // Replace with your RSS feed URL
-              
-                async function fetchRSS() {
-                  try {
-                    const response = await fetch(RSS_URL);
-                    const text = await response.text();
-                    const parser = new DOMParser();
-                    const xml = parser.parseFromString(text, "text/xml");
-                    const items = xml.querySelectorAll("item");
-              
-                    const feedList = document.getElementById("feed");
-                    items.forEach((item) => {
-                      const title = item.querySelector("title").textContent;
-                      const link = item.querySelector("link").textContent;
-              
-                      const listItem = document.createElement("li");
-                      listItem.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
-                      feedList.appendChild(listItem);
-                    });
-                  } catch (error) {
-                    console.error("Error fetching the RSS feed:", error);
-                  }
-                }
-              
-                fetchRSS();
-              </script>
-              
+    <div style="
+    display:grid;
+    grid-template-columns: 1fr ;
+    ">
+        <div>
+        <p class = "head">
+            
+        </p>
+        <body>
+            <p class = "Visualization">
+                
+            </p>
+        </body>
         </div>
-    </div>
+
+   </div>
+    
 
 </body>
 </html>
