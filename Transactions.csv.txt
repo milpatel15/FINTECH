@@ -1,0 +1,201 @@
+ID,Category,Subcategory,Amount,Payment_Method,Date,Essential
+1,Food,Groceries,3000.00,UPI,2023-01-01,Essential
+2,Stationery,Books,800.00,Cash,2023-01-03,Essential
+3,Transportation,Bus fare,600.00,UPI,2023-01-05,Essential
+4,Music App,Monthly subscription,200.00,UPI,2023-01-10,Non-Essential
+5,Medications,Pharmacy,1200.00,Cash,2023-01-12,Essential
+6,OTT Subscription,Monthly subscription,499.00,UPI,2023-01-15,Non-Essential
+7,Trip,Weekend trip,2500.00,Cash,2023-01-20,Non-Essential
+8,Miscellaneous,Snacks,600.00,UPI,2023-01-25,Non-Essential
+9,Food,Cafeteria meals,1200.00,UPI,2023-01-28,Essential
+10,Transportation,Auto fare,800.00,Cash,2023-01-30,Essential
+11,Food,Groceries,2900.00,UPI,2023-02-01,Essential
+12,Stationery,Stationery items,700.00,Cash,2023-02-03,Essential
+13,Transportation,Bus fare,600.00,UPI,2023-02-05,Essential
+14,Music App,Monthly subscription,200.00,UPI,2023-02-10,Non-Essential
+15,Medications,Prescription meds,800.00,Cash,2023-02-12,Essential
+16,OTT Subscription,Monthly subscription,499.00,UPI,2023-02-15,Non-Essential
+17,Trip,Long weekend trip,2500.00,Cash,2023-02-20,Non-Essential
+18,Miscellaneous,Kitchen items,600.00,UPI,2023-02-25,Non-Essential
+19,Food,Cafeteria meals,1200.00,UPI,2023-02-28,Essential
+20,Transportation,Auto fare,800.00,Cash,2023-02-28,Essential
+21,Food,Groceries,3100.00,UPI,2023-03-01,Essential
+22,Stationery,Art materials,1000.00,Cash,2023-03-03,Essential
+23,Transportation,Bus fare,600.00,UPI,2023-03-05,Essential
+24,Music App,Monthly subscription,200.00,UPI,2023-03-10,Non-Essential
+25,Medications,Over-the-counter,1000.00,Cash,2023-03-12,Essential
+26,OTT Subscription,Monthly subscription,499.00,UPI,2023-03-15,Non-Essential
+27,Trip,Adventure trip,3000.00,Cash,2023-03-20,Non-Essential
+28,Miscellaneous,Gym items,800.00,UPI,2023-03-25,Non-Essential
+29,Food,Cafeteria meals,1200.00,UPI,2023-03-28,Essential
+30,Transportation,Auto fare,800.00,Cash,2023-03-30,Essential
+31,Food,Groceries,3100.00,UPI,2023-04-01,Essential
+32,Stationery,Study materials,800.00,Cash,2023-04-02,Essential
+33,Transportation,Bus fare,600.00,UPI,2023-04-05,Essential
+34,Music App,Monthly subscription,200.00,UPI,2023-04-10,Non-Essential
+35,Medications,Health supplements,1200.00,Cash,2023-04-12,Essential
+36,OTT Subscription,Monthly subscription,499.00,UPI,2023-04-15,Non-Essential
+37,Trip,Sightseeing trip,2500.00,Cash,2023-04-20,Non-Essential
+38,Miscellaneous,Random items,700.00,UPI,2023-04-25,Non-Essential
+39,Food,Cafeteria meals,1200.00,UPI,2023-04-28,Essential
+40,Transportation,Auto fare,800.00,Cash,2023-04-30,Essential
+41,Food,Groceries,3200.00,UPI,2023-05-01,Essential
+42,Stationery,Project materials,800.00,Cash,2023-05-03,Essential
+43,Transportation,Bus fare,600.00,UPI,2023-05-05,Essential
+44,Music App,Monthly subscription,200.00,UPI,2023-05-10,Non-Essential
+45,Medications,Prescription,1200.00,Cash,2023-05-12,Essential
+46,OTT Subscription,Monthly subscription,499.00,UPI,2023-05-15,Non-Essential
+47,Trip,Nature trip,2500.00,Cash,2023-05-20,Non-Essential
+48,Miscellaneous,New gadgets,600.00,UPI,2023-05-25,Non-Essential
+49,Food,Cafeteria meals,1200.00,UPI,2023-05-28,Essential
+50,Transportation,Auto fare,800.00,Cash,2023-05-30,Essential
+51,Food,Groceries,3100.00,UPI,2023-06-01,Essential
+52,Stationery,Supplies,900.00,Cash,2023-06-03,Essential
+53,Transportation,Bus fare,600.00,UPI,2023-06-05,Essential
+54,Music App,Monthly subscription,200.00,UPI,2023-06-10,Non-Essential
+55,Medications,Health checkup,1500.00,Cash,2023-06-12,Essential
+56,OTT Subscription,Monthly subscription,499.00,UPI,2023-06-15,Non-Essential
+57,Trip,Weekend escape,2500.00,Cash,2023-06-20,Non-Essential
+58,Miscellaneous,Camping gear,600.00,UPI,2023-06-25,Non-Essential
+59,Food,Cafeteria meals,1200.00,UPI,2023-06-28,Essential
+60,Transportation,Auto fare,800.00,Cash,2023-06-30,Essential
+61,Food,Groceries,3200.00,UPI,2023-07-01,Essential
+62,Stationery,New materials,800.00,Cash,2023-07-03,Essential
+63,Transportation,Bus fare,600.00,UPI,2023-07-05,Essential
+64,Music App,Monthly subscription,200.00,UPI,2023-07-10,Non-Essential
+65,Medications,Consultation,1200.00,Cash,2023-07-12,Essential
+66,OTT Subscription,Monthly subscription,499.00,UPI,2023-07-15,Non-Essential
+67,Trip,Beach trip,2500.00,Cash,2023-07-20,Non-Essential
+68,Miscellaneous,Fitness items,600.00,UPI,2023-07-25,Non-Essential
+69,Food,Cafeteria meals,1200.00,UPI,2023-07-28,Essential
+70,Transportation,Auto fare,800.00,Cash,2023-07-30,Essential
+71,Food,Groceries,3000.00,UPI,2023-08-01,Essential
+72,Stationery,Research papers,900.00,Cash,2023-08-03,Essential
+73,Transportation,Bus fare,600.00,UPI,2023-08-05,Essential
+74,Music App,Monthly subscription,200.00,UPI,2023-08-10,Non-Essential
+75,Medications,Monthly supply,1000.00,Cash,2023-08-12,Essential
+76,OTT Subscription,Monthly subscription,499.00,UPI,2023-08-15,Non-Essential
+77,Trip,Camping trip,2500.00,Cash,2023-08-20,Non-Essential
+78,Miscellaneous,Household items,600.00,UPI,2023-08-25,Non-Essential
+79,Food,Cafeteria meals,1200.00,UPI,2023-08-28,Essential
+80,Transportation,Auto fare,800.00,Cash,2023-08-30,Essential
+81,Food,Groceries,3100.00,UPI,2023-09-01,Essential
+82,Stationery,Books and supplies,800.00,Cash,2023-09-03,Essential
+83,Transportation,Bus fare,600.00,UPI,2023-09-05,Essential
+84,Music App,Monthly subscription,500.00,UPI,2023-09-10,Non-Essential
+85,Medications,Pharmacy,1200.00,Cash,2023-09-15,Essential
+86,OTT Subscription,Monthly subscription,499.00,UPI,2023-09-20,Non-Essential
+87,Trip,Weekend trip,2500.00,Cash,2023-09-25,Non-Essential
+88,Miscellaneous,Small purchases,700.00,UPI,2023-09-28,Non-Essential
+89,Food,Cafeteria meals,1200.00,UPI,2023-09-28,Essential
+90,Transportation,Auto fare,800.00,Cash,2023-09-30,Essential
+91,Food,Groceries,3500.00,UPI,2023-10-01,Essential
+92,Stationery,Art supplies,900.00,Cash,2023-10-03,Essential
+93,Transportation,Bus fare,600.00,UPI,2023-10-05,Essential
+94,Music App,Monthly subscription,200.00,UPI,2023-10-10,Non-Essential
+95,Medications,Health checkup,1500.00,Cash,2023-10-12,Essential
+96,OTT Subscription,Monthly subscription,499.00,UPI,2023-10-15,Non-Essential
+97,Trip,City tour,3000.00,Cash,2023-10-20,Non-Essential
+98,Miscellaneous,Workout gear,600.00,UPI,2023-10-25,Non-Essential
+99,Food,Cafeteria meals,1200.00,UPI,2023-10-28,Essential
+100,Transportation,Auto fare,800.00,Cash,2023-10-30,Essential
+101,Food,Groceries,3200.00,UPI,2023-11-01,Essential
+102,Stationery,New notebooks,800.00,Cash,2023-11-03,Essential
+103,Transportation,Bus fare,600.00,UPI,2023-11-05,Essential
+104,Music App,Monthly subscription,200.00,UPI,2023-11-10,Non-Essential
+105,Medications,Pharmacy,1200.00,Cash,2023-11-12,Essential
+106,OTT Subscription,Monthly subscription,499.00,UPI,2023-11-15,Non-Essential
+107,Trip,Historical site trip,2500.00,Cash,2023-11-20,Non-Essential
+108,Miscellaneous,Gadgets,600.00,UPI,2023-11-25,Non-Essential
+109,Food,Cafeteria meals,1200.00,UPI,2023-11-28,Essential
+110,Transportation,Auto fare,800.00,Cash,2023-11-30,Essential
+111,Food,Groceries,3000.00,UPI,2023-12-01,Essential
+112,Stationery,Project materials,800.00,Cash,2023-12-03,Essential
+113,Transportation,Bus fare,600.00,UPI,2023-12-05,Essential
+114,Music App,Monthly subscription,200.00,UPI,2023-12-10,Non-Essential
+115,Medications,Health supplies,1000.00,Cash,2023-12-12,Essential
+116,OTT Subscription,Monthly subscription,499.00,UPI,2023-12-15,Non-Essential
+117,Trip,Winter trip,3000.00,Cash,2023-12-20,Non-Essential
+118,Miscellaneous,Clothing,700.00,UPI,2023-12-25,Non-Essential
+119,Food,Cafeteria meals,1200.00,UPI,2023-12-28,Essential
+120,Transportation,Auto fare,800.00,Cash,2023-12-30,Essential
+121,Food,Groceries,3200.00,UPI,2024-01-01,Essential
+122,Stationery,New supplies,800.00,Cash,2024-01-03,Essential
+123,Transportation,Bus fare,600.00,UPI,2024-01-05,Essential
+124,Music App,Monthly subscription,200.00,UPI,2024-01-10,Non-Essential
+125,Medications,Checkup,1200.00,Cash,2024-01-12,Essential
+126,OTT Subscription,Monthly subscription,499.00,UPI,2024-01-15,Non-Essential
+127,Trip,Holiday trip,2500.00,Cash,2024-01-20,Non-Essential
+128,Miscellaneous,Gifts,600.00,UPI,2024-01-25,Non-Essential
+129,Food,Cafeteria meals,1200.00,UPI,2024-01-28,Essential
+130,Transportation,Auto fare,800.00,Cash,2024-01-30,Essential
+131,Food,Groceries,3100.00,UPI,2024-02-01,Essential
+132,Stationery,Office supplies,800.00,Cash,2024-02-03,Essential
+133,Transportation,Bus fare,600.00,UPI,2024-02-05,Essential
+134,Music App,Monthly subscription,200.00,UPI,2024-02-10,Non-Essential
+135,Medications,Prescription,1200.00,Cash,2024-02-12,Essential
+136,OTT Subscription,Monthly subscription,499.00,UPI,2024-02-15,Non-Essential
+137,Trip,Mountain trip,2500.00,Cash,2024-02-20,Non-Essential
+138,Miscellaneous,Random shopping,600.00,UPI,2024-02-25,Non-Essential
+139,Food,Cafeteria meals,1200.00,UPI,2024-02-28,Essential
+140,Transportation,Auto fare,800.00,Cash,2024-02-28,Essential
+141,Food,Groceries,3000.00,UPI,2024-03-01,Essential
+142,Stationery,New materials,800.00,Cash,2024-03-03,Essential
+143,Transportation,Bus fare,600.00,UPI,2024-03-05,Essential
+144,Music App,Monthly subscription,200.00,UPI,2024-03-10,Non-Essential
+145,Medications,Checkup,1200.00,Cash,2024-03-12,Essential
+146,OTT Subscription,Monthly subscription,499.00,UPI,2024-03-15,Non-Essential
+147,Trip,Weekend getaway,2500.00,Cash,2024-03-20,Non-Essential
+148,Miscellaneous,Accessories,600.00,UPI,2024-03-25,Non-Essential
+149,Food,Cafeteria meals,1200.00,UPI,2024-03-28,Essential
+150,Transportation,Auto fare,800.00,Cash,2024-03-30,Essential
+151,Food,Groceries,3200.00,UPI,2024-04-01,Essential
+152,Stationery,Project materials,800.00,Cash,2024-04-03,Essential
+153,Transportation,Bus fare,600.00,UPI,2024-04-05,Essential
+154,Music App,Monthly subscription,200.00,UPI,2024-04-10,Non-Essential
+155,Medications,Health supplies,1200.00,Cash,2024-04-12,Essential
+156,OTT Subscription,Monthly subscription,499.00,UPI,2024-04-15,Non-Essential
+157,Trip,Adventure trip,2500.00,Cash,2024-04-20,Non-Essential
+158,Miscellaneous,Gifts,600.00,UPI,2024-04-25,Non-Essential
+159,Food,Cafeteria meals,1200.00,UPI,2024-04-28,Essential
+160,Transportation,Auto fare,800.00,Cash,2024-04-30,Essential
+161,Food,Groceries,3100.00,UPI,2024-05-01,Essential
+162,Stationery,New supplies,800.00,Cash,2024-05-03,Essential
+163,Transportation,Bus fare,600.00,UPI,2024-05-05,Essential
+164,Music App,Monthly subscription,200.00,UPI,2024-05-10,Non-Essential
+165,Medications,Prescription,1200.00,Cash,2024-05-12,Essential
+166,OTT Subscription,Monthly subscription,499.00,UPI,2024-05-15,Non-Essential
+167,Trip,City tour,2500.00,Cash,2024-05-20,Non-Essential
+168,Miscellaneous,Random items,600.00,UPI,2024-05-25,Non-Essential
+169,Food,Cafeteria meals,1200.00,UPI,2024-05-28,Essential
+170,Transportation,Auto fare,800.00,Cash,2024-05-30,Essential
+171,Food,Groceries,3200.00,UPI,2024-06-01,Essential
+172,Stationery,Study materials,800.00,Cash,2024-06-03,Essential
+173,Transportation,Bus fare,600.00,UPI,2024-06-05,Essential
+174,Music App,Monthly subscription,200.00,UPI,2024-06-10,Non-Essential
+175,Medications,Health checkup,1200.00,Cash,2024-06-12,Essential
+176,OTT Subscription,Monthly subscription,499.00,UPI,2024-06-15,Non-Essential
+177,Trip,Beach trip,2500.00,Cash,2024-06-20,Non-Essential
+178,Miscellaneous,Camping gear,600.00,UPI,2024-06-25,Non-Essential
+179,Food,Cafeteria meals,1200.00,UPI,2024-06-28,Essential
+180,Transportation,Auto fare,800.00,Cash,2024-06-30,Essential
+181,Food,Groceries,3100.00,UPI,2024-07-01,Essential
+182,Stationery,New notebooks,800.00,Cash,2024-07-03,Essential
+183,Transportation,Bus fare,600.00,UPI,2024-07-05,Essential
+184,Music App,Monthly subscription,200.00,UPI,2024-07-10,Non-Essential
+185,Medications,Consultation,1200.00,Cash,2024-07-12,Essential
+186,OTT Subscription,Monthly subscription,499.00,UPI,2024-07-15,Non-Essential
+187,Trip,Weekend escape,2500.00,Cash,2024-07-20,Non-Essential
+188,Miscellaneous,Fitness items,600.00,UPI,2024-07-25,Non-Essential
+189,Food,Cafeteria meals,1200.00,UPI,2024-07-28,Essential
+190,Transportation,Auto fare,800.00,Cash,2024-07-30,Essential
+191,Food,Groceries,3000.00,UPI,2024-08-01,Essential
+192,Stationery,Research papers,900.00,Cash,2024-08-03,Essential
+193,Transportation,Bus fare,600.00,UPI,2024-08-05,Essential
+194,Music App,Monthly subscription,200.00,UPI,2024-08-10,Non-Essential
+195,Medications,Monthly supply,1000.00,Cash,2024-08-12,Essential
+196,OTT Subscription,Monthly subscription,499.00,UPI,2024-08-15,Non-Essential
+197,Trip,Camping trip,2500.00,Cash,2024-08-20,Non-Essential
+198,Miscellaneous,Household items,600.00,UPI,2024-08-25,Non-Essential
+199,Food,Cafeteria meals,1200.00,UPI,2024-08-28,Essential
+200,Transportation,Auto fare,800.00,Cash,2024-08-30,Essential
