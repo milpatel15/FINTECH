@@ -11,7 +11,7 @@ h2{
     height: 05rem;
     margin-top: 5px;
     margin-left: 25px;
-    border-radius: 15%;
+    border-radius: 25px;
     line-height: 5rem;
     box-shadow: 0px 5px 15px rgb(0, 0, 0);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -50,6 +50,7 @@ nav ul li a {
     text-decoration: none;
     color: #10002b;
     font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     transition: color 0.3s ease;
 }
@@ -58,6 +59,7 @@ nav ul li p {
     color: #10002b;
     font-size: 25px;
     font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
    
 }
 
@@ -150,6 +152,7 @@ button{
     box-shadow: 10px 10px 10px black;
     height: 295px;
     margin: 5px;
+    border-style: dotted;
 }
 .status{
     display:inline-block;
@@ -157,6 +160,7 @@ button{
     box-shadow: 10px 10px 10px black;
     margin:5px;
     height: 295px;
+    border-style: dotted;
 
 }
 .transaction{
@@ -165,6 +169,7 @@ button{
     box-shadow: 10px 10px 10px black;
     margin: 5px;
     height: 295px;
+    border-style: dotted;
 
 }
 .saving{
@@ -173,6 +178,7 @@ button{
     box-shadow: 10px 10px 10px black;
     margin:4px;
     height: 295px;
+    border-style: dotted;
 
 }
 .head{
@@ -189,4 +195,29 @@ button{
 .in{
     border-color: #10002b;
     border-style: dotted;
+}
+.transactionf{
+    margin-top: 10px;
+    margin-right:10px;
+    margin-left:10px;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    height: 595px;
+    border-style: dotted;
+}
+.Visualization{
+    margin-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    height: 595px;
+    border-style: dotted;
+}
+.heade{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 85px;
+
 }
