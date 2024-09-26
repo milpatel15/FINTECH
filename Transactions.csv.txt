@@ -199,3 +199,9 @@ ID,Category,Subcategory,Amount,Payment_Method,Date,Essential
 198,Miscellaneous,Household items,600.00,UPI,2024-08-25,Non-Essential
 199,Food,Cafeteria meals,1200.00,UPI,2024-08-28,Essential
 200,Transportation,Auto fare,800.00,Cash,2024-08-30,Essential
+201,Food,Groceries,3100.00,UPI,2024-09-01,Essential
+202,Stationery,New supplies,800.00,Cash,2024-09-03,Essential
+203,Transportation,Bus fare,600.00,UPI,2024-09-05,Essential
+204,Music App,Monthly subscription,200.00,UPI,2024-09-10,Non-Essential
+205,Medications,Pharmacy,1200.00,Cash,2024-09-15,Essential
+206,Transportation,Auto fare,800.00,Cash,2024-09-15,Essential
